@@ -31,3 +31,4 @@ hs_err_pid*
 # Editor-based HTTP Client requests
 /httpRequests/
 /.idea/misc.xml
+/.idea/*
